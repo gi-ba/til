@@ -5,10 +5,13 @@ Just want to jot down small things that I learn day to day
 ## Categories
 
 * [Flutter](#flutter)
-
+* [iOS](#ios)
 
 ### Flutter
 - [Differences between Flutter and React Native](flutter/differences-from-react.md)
+
+### iOS
+- [Draw dashed border for UIView](ios/dash-line-pattern.md)
 
 ## License
 &copy; 2020 Giba
