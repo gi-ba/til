@@ -14,7 +14,7 @@ Just want to jot down small things that I learn day to day
 - [Draw dashed border for UIView](ios/dash-line-pattern.md)
 
 ### Operating System
-- [Batch processing](os/batch-proccessing.md)
+- [Batch processing](os/batch-processing.md)
 
 ## License
 &copy; 2020 Giba
